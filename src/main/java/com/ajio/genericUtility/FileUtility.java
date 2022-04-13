@@ -25,6 +25,8 @@ public class FileUtility {
 		FileInputStream fis=new FileInputStream(path);
 		properties=new Properties();
 		properties.load(fis);
+		
+		
 	}
 }
  
