@@ -78,5 +78,4 @@ public class AjioTestScript {
 		sbpg.deletConfirm();
 
 	}
-
 }
