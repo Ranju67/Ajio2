@@ -5,5 +5,10 @@ package com.ajio.genericUtility;
  *
  */
 public interface ConstantPath {
+	
+	//commonDatas path stored inside the constant path
 	String propertyFilePath="./src/test/resources/Ajio.properties";
+
+
+
 }
